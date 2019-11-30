@@ -1,0 +1,60 @@
+body{
+	background-image: url("image3.jpg");
+	background-size: cover;
+	color:black;
+	font-family: 'Raleway', sans-serif;
+}
+.content{
+	margin: 200px;
+	background: white;
+}
+.mysec{
+	text-align: center;
+}
+.talk{
+	color: grey;
+	text-align: right;
+	font-size: small;
+}
+.myself{
+	width: 30%;
+	float: left;
+	text-align: center;
+}
+.intro{
+	width: 70%;
+	float: right;
+}
+.clear{
+	clear: both;
+}
+.skills{
+	text-align: center;
+	float: left;
+	width: 30%;
+}
+.progress{
+	float: right;
+	width: 70%;
+}
+.sool{
+	float: left;
+	width: 30%;
+	text-align: center;
+}
+.fillup{
+	float: right;
+	width: 50%;
+	text-align: center;
+}
+.ending{
+	background: black;
+	color: white;
+	text-align: center;
+}
+.image{
+	width: 100px;
+	height: 120px;
+	border: 3px solid white;
+	border-radius: 50%;
+}
